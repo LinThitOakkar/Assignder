@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "719880802530",
+    "project_id": "assignder-e50c0",
+    "storage_bucket": "assignder-e50c0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719880802530:android:7004ed36f58eb6bc164ebb",
+        "android_client_info": {
+          "package_name": "com.ltok.assignder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719880802530-n5qmqojeopvimjrgocjm8qpl4699rkto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ltok.assignder",
+            "certificate_hash": "aa1b15d6cfd82f283eb634b9340af5bf21bcfb3c"
+          }
+        },
+        {
+          "client_id": "719880802530-frkb95d0ijl0pvbrm8l32ga87bk830ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBALk_04jWu3I9MFFbK9gXc7UTQH24HKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719880802530-cpv4f9flobgqlkb9vqjnlm9ncl4t187h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "719880802530-ab00cvm44pfhmm975j9dai7dslavlca2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.assignder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
